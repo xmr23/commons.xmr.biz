@@ -1,0 +1,37 @@
+Job Advertisement
+
+Preface
+You love Monero deeply. Out of true bellief, you began helping to spread the word about The Monero Project, by telling your real life friends & colleagues and contributing high quality content, in all your Monero- and Crypto Currency-related postings and other statements online. Naturally you donated very generously to the Monero development fund. So far, so good.
+
+You'll also understand, the project's core purpose and focus of building a new, innovative payment system (& major potential of further improvements) is strongly depending, if the project can maintain it's efficient organizational structure.
+That allows to profit as much as possible from user integration in the development process. And is needed to build and deploy the Monero network, which is depending on the success of it's own Free Software Project and the establishment of it's open network and the technology infostructure.
+
+What's needed? The Monero Culture!
+The Monero culture is a contemporary culture which represents a technology-based extension of the DIY culture. It can be described as:
+- intelligent & proactive network of users
+- a project culture of big community contributions to the design, development, deployment and improvement cycles    
+- members independently cooperate and work together developing the project further
+- mindset of building the ecosystem and services around Monero together
+
+Your chance
+Now you desire to take the logical next step: You are interested to help the project by contributing your manpower. But as non software developer, there are not many opportunities.
+Here is on your chance to help the Monero ecosystem and community to grow and prosper. Because actions speak louder than words.
+
+About the job
+We search editorial staff for a private new webpage, that host many different Monero community resources. This site is a independent community member project. We hope to offer a useful service, that is a (small) effort towards efficient knowledge management, inside The Monero Project, by creating synergies and avoid work duplication (e.g. information seeking). Our site is and will always stay ad-free, as it's obvious an non-profit effort. We need your support. Apply, if you you qualify!
+
+I won't disclose the projects URL now, because the site is currently unfinished. URL will be disclosed via PM, to everyone interested. Site is strongly coordinated with Monero core team. David Latapie and fluffypony both have write access to web page repository. 
+It's a true, democratic community project. The site will stay online (and hopefully active), even if I would have to leave community (e.g. jail, accident, death).
+
+Required
+- github.com account
+- clean scene history (no scams, no strong support of shady altcoins, ...)
+- basic HTML & CSS skills
+- at least 3 hours weekly time available to work on this job
+
+Preferred 
+- you chat regularly on Freenode IRC network 
+(so Monero devs and I can easily directly speak to you)
+- good English skills
+
+Contact
