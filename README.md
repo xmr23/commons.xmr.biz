@@ -4,5 +4,5 @@
 The aim of Monero Commons is to provide a media file repository: that makes available public domain and freely-licensed educational media content to all, and that acts as a common repository for the various projects of the Monero community.
 The expression educational is to be understood according to its broad meaning of "providing knowledge, instructional or informative".
 
-Please contribute via GitHub, IRC, , The Monero Project Forum or via EMail: admin@xmr.biz.
- <a href="https://bitcointalk.org/index.php">The Bitcoin Forum</a>
+Please contribute via GitHub, IRC, <a href="https://bitcointalk.org/index.php">The Bitcoin Forum</a>, <a href="https://forum.getmonero.org">The Monero Project Forum</a> or via EMail: admin@xmr.biz.
+
